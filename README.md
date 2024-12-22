@@ -1,6 +1,6 @@
 # CSV to MongoDB Data Import 🗂️🔄
 
-This project allows you to import a large dataset from a CSV file into a MongoDB database. The dataset used in this project contains food recipes, sourced from [Food.com Recipes and User Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions) on Kaggle 🍲📊.
+This project allows you to import a large dataset from a CSV file into a MongoDB database. The dataset used in this project contains food recipes, sourced from [Food.com Recipes and User Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes) on Kaggle 🍲📊.
 
 ## Features ✨
 
